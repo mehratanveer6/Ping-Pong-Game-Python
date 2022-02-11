@@ -1,2 +1,2 @@
 # Ping-Pong-Game-Python
-I created a ping pong game with python and turtle module
+I have used the turtle module instead of pygame because this project isn't that complicated. 
